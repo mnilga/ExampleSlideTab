@@ -14,8 +14,12 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.nilga.masha.exampleslidetab2.MainActivity"
+            android:name="com.nilga.masha.exampleslidetab2.FullActivity"
             android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.nilga.masha.exampleslidetab2.MainActivity"
+            android:label="@string/title_activity_short" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

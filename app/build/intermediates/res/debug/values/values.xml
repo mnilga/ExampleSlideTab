@@ -210,11 +210,40 @@
     <!-- From: file:/D:/MariaDocuments/ExampleSlideTab/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="action_settings">Settings</string>
+    <!-- From: file:/D:/MariaDocuments/ExampleSlideTab/app/src/main/res/values/strings_activity_login.xml -->
+    <eat-comment/>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <!-- From: file:/D:/MariaDocuments/ExampleSlideTab/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
     <string name="app_name">Новые заявки</string>
+    <!-- From: file:/D:/MariaDocuments/ExampleSlideTab/app/src/main/res/values/strings_activity_login.xml -->
+    <eat-comment/>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <!-- From: file:/D:/MariaDocuments/ExampleSlideTab/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
     <string name="hello_world">Hello world!</string>
+    <!-- From: file:/D:/MariaDocuments/ExampleSlideTab/app/src/main/res/values/strings_activity_login.xml -->
+    <eat-comment/>
+    <string name="plus_disconnect">Disconnect from Google+</string>
+    <string name="plus_sign_out">Switch Google+ account</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
     <!-- From: file:/D:/MariaDocuments/ExampleSlideTab/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <!-- From: file:/D:/MariaDocuments/ExampleSlideTab/app/src/main/res/values/strings_activity_login.xml -->
+    <eat-comment/>
+    <string name="title_activity_login">Sign in</string>
+    <!-- From: file:/D:/MariaDocuments/ExampleSlideTab/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="title_activity_main_activity2">MainActivity2Activity</string>
+    <string name="title_activity_short">ShortActivity</string>
+    <!-- From: file:/D:/MariaDocuments/ExampleSlideTab/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
+    <eat-comment/>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
