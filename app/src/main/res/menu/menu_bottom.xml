@@ -1,0 +1,39 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="marianilga.toolbarproba.MainActivity">
+
+    <item android:id="@+id/status"
+        android:title="@string/action_settings"
+        android:icon="@android:drawable/btn_star_big_on"
+        android:orderInCategory="100"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/new_request"
+        android:title="@string/action_settings"
+        android:icon="@android:drawable/ic_input_get"
+        android:orderInCategory="100"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/current_request"
+        android:title="@string/action_settings"
+        android:icon="@android:drawable/ic_menu_today"
+        android:orderInCategory="100"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/done_request"
+        android:title="@string/action_settings"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:orderInCategory="100"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/enter_new"
+        android:title="@string/action_settings"
+        android:icon="@android:drawable/ic_menu_add"
+        android:orderInCategory="100"
+        app:showAsAction="always" />
+
+
+
+
+</menu>
